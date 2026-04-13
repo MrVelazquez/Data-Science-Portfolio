@@ -1,0 +1,46 @@
+ABOUT ME:
+
+# Medical Chatbot with Machine Learning
+
+## Overview
+This project explores the design of a medical chatbot supported by machine learning and natural language processing techniques.
+The focus is on demonstrating classification, intent recognition, and conversational support concepts.
+
+## Objectives
+- Process and prepare text data
+- Build a model for intent or response prediction
+- Evaluate model performance
+- Present findings clearly for a non-technical audience
+
+## Tools and Technologies
+- Python
+- NLP libraries
+- Scikit-learn
+- Pandas
+- Jupyter Notebook
+
+## Dataset
+The project uses text-based input data relevant to healthcare or symptom-based interactions. 
+Additional dataset details will be documented in the final version.
+
+## Methods
+- Text preprocessing
+- Tokenization
+- Feature extraction
+- Machine learning model training
+- Evaluation and interpretation
+
+## Results
+This draft project demonstrates the workflow for developing a machine learning-supported chatbot. 
+Detailed results and examples will be added as the project is finalized.
+
+## Files Included
+- `notebooks/`
+- `scripts/`
+- `reports/`
+- `images/`
+
+## Future Improvements
+- Improve conversational flow
+- Add model comparison
+- Expand medical safety disclaimers and validation
