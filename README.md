@@ -8,34 +8,23 @@ This repository includes examples of Programming Code, written reports, and othe
 # Work/Projects
 List of Portfolio Projects
 
-1. Time Series Analysis
-Forecasting trends over time using statistical and machine learning techniques.
+ProjectS                                           Name	Core Methodology & Stack
+1.	Customer Segmentation for Marketing Efficiency:	K-Means Clustering, PCA, Feature Engineering, Data Standardization, Customer Analytics • Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
-2. Medical Chatbot with Machine Learning
-A chatbot-oriented project using NLP and classification methods for healthcare-related interactions.
+2.	Childcare Affordability and Workforce Participation Analysis:	Exploratory Data Analysis (EDA), Geographic Analysis, Correlation Analysis, Dashboard Development, Data Storytelling • Python, Pandas, Tableau, Power BI, Matplotlib
 
-3. Customer Segmentation Analysis
-Clustering customers based on behavior and demographic patterns for business insights.
+3.	Global Life Expectancy Prediction:	Supervised Machine Learning, Regression Modeling, Feature Engineering, Model Evaluation • Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
 
-4. Sentiment Analysis Project
-Text mining and NLP project analyzing positive, negative, and neutral sentiment in written reviews or comments.
+4.	White House Visitor Flow Optimization	Operational Analytics, Process Optimization, Trend Analysis, Data Visualization • Python, Pandas, Matplotlib, Seaborn, Tableau
 
-5. Predictive Modeling Project
-Supervised machine learning project focused on classification or regression.
+5.	Aviation Security Operations & Complaint Dynamics	Exploratory Data Analysis, Trend Analysis, Dashboard Design, Data Visualization • Python, Pandas, Tableau, Power BI, Matplotlib
 
-6. Data Visualization Dashboard
-Interactive dashboard project using Tableau, Power BI, or Python visualizations.
+6.	Global Streaming Video Engagement Metrics	Business Intelligence Analytics, KPI Analysis, Data Visualization, Storytelling • Python, Tableau, Power BI, Pandas
 
-7. SQL Data Analysis Project
-A project demonstrating querying, joining, aggregation, and business reporting using SQL.
+7.	Viral Vehicle Theft Epidemic Assessment	Statistical Analysis, Time-Series Trend Analysis, Public Policy Analytics, Data Visualization • R, ggplot2, dplyr, tidyr, readr, lubridate
 
-8. Portfolio Project from Current Course Placeholder 1
-Reserved for a major deliverable from this course.
+8.	Stochastic Modeling & Randomness Verification	Probability Analysis, Statistical Modeling, Hypothesis Testing, Randomness Verification • Python, NumPy, SciPy, Pandas, Matplotlib
 
-9. Portfolio Project from Current Course Placeholder 2
-Reserved for a second major deliverable from this course.
+9.	Walmart Weekly Sales Forecasting	Random Forest Regression, Gradient Boosting, ARIMA Time-Series Forecasting, Feature Engineering • Python, Pandas, Scikit-Learn, Statsmodels, NumPy, Matplotlib
 
-10. Portfolio Project from Current Course Placeholder 3
-Reserved for a third major deliverable from this course.
-
-*Draft*
+10.	Netflix Top 10 Analytics Project	Data Cleaning, Trend Analysis, Dashboard Development, Data Storytelling • Python, Tableau, Power BI, Pandas
